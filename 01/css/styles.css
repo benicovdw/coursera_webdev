@@ -1,0 +1,35 @@
+/* ######################################  */
+*   { box-sizing: border-box;}
+h1  { color: #642}
+
+div { background-color: #eea; 
+      padding: 10px; 
+      margin: 5px; 
+      border-radius: 5px; 
+      float: left;
+    }
+
+p   { width: 50%;  
+      border: 1px solid black; 
+      border-radius: 5px;
+      padding: 10px; 
+      margin: 0px; 
+      text-align: center;
+      background-color: #cc9; 
+      float: right; 
+      margin-top: -10px; 
+      margin-right: -10px;
+    }
+
+section { clear: both; 
+          padding: 10px;
+        }
+
+@media  (min-width: 992px) { 
+        .w30  {width: 32%; }  
+}
+@media  (min-width: 768px) and (max-width: 991px) { 
+        .m50  {width: 48%; }  
+        .m100 {width: 97%; }  
+}
+ /* ######################################  */
