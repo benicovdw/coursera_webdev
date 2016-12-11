@@ -1,0 +1,38 @@
+ 1934  git init
+ 1935  git add README.md
+ 1936  git commit -m "first commit"
+ 1937  git remote add origin https://github.com/benicovdw/coursera_webdev.git
+ 1938  git push -u origin master
+ 1945  git init
+ 1947  git add README.md
+ 1948  git commit -m "first commit"
+ 1949  git config --global user.email "you@example.com"
+ 1950  git config --global user.email "benicovdw@gmail.com"
+ 1951  git config --global user.name "benicovdw"
+ 1952  git commit -m "first commit"
+ 1953  git remote add origin https://github.com/benicovdw/coursera_webdev.git
+ 1954  git push -u origin master
+ 1958  git clone https://github.com/benicovdw/coursera_webdev.git
+ 1966  git status
+ 1967  git checkout gh-pages
+ 1968  git status
+ 1973  git status
+ 1975  git status
+ 1976  git add .
+ 1977  git status
+ 1978  git commit -m "first commit"
+ 1979  git status
+ 1980  git push
+ 1981  git status
+ 1982  git add .
+ 1983  git status
+ 1984  git commit -m "fixed spelling"
+ 1985  git push
+ 2005  git status
+ 2007  ls -al ./.git/
+ 2013  git status
+ 2014  git add *
+ 2015  git status
+ 2016  history |grep git
+ 2017  history |grep git >> git history
+ 2018  history |grep git >> git_history
